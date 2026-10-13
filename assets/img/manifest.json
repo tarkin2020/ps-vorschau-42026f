@@ -1,0 +1,84 @@
+{
+  "behandlung-osteopathie": {
+    "orig": [
+      945,
+      682
+    ],
+    "widths": [
+      400,
+      640,
+      900,
+      945
+    ]
+  },
+  "caroline-seim-portrait": {
+    "orig": [
+      682,
+      1024
+    ],
+    "widths": [
+      400,
+      640,
+      682
+    ]
+  },
+  "caroline-seim-portrait-quadrat": {
+    "orig": [
+      1024,
+      1024
+    ],
+    "widths": [
+      400,
+      640,
+      900,
+      1024
+    ]
+  },
+  "praxis-empfang": {
+    "orig": [
+      1024,
+      1024
+    ],
+    "widths": [
+      400,
+      640,
+      900,
+      1024
+    ]
+  },
+  "praxis-behandlungsraum": {
+    "orig": [
+      1024,
+      1024
+    ],
+    "widths": [
+      400,
+      640,
+      900,
+      1024
+    ]
+  },
+  "gutschein": {
+    "orig": [
+      682,
+      1024
+    ],
+    "widths": [
+      400,
+      640,
+      682
+    ]
+  },
+  "kinderosteopathie-behandlung": {
+    "orig": [
+      1200,
+      900
+    ],
+    "widths": [
+      400,
+      640,
+      900,
+      1200
+    ]
+  }
+}
