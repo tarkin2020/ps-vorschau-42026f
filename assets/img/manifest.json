@@ -80,5 +80,17 @@
       900,
       1200
     ]
+  },
+  "kinderosteopathie-behandlung-quadrat": {
+    "orig": [
+      1024,
+      1024
+    ],
+    "widths": [
+      400,
+      640,
+      900,
+      1024
+    ]
   }
 }
